@@ -1,0 +1,16 @@
+**/node_modules/**
+*.pem
+*.tgz
+.DS_Store
+.env
+.env.development.local
+.env.local
+.env.production.local
+.env.test.local
+.nx/cache
+.nx/workspace-data
+.obsidian/
+build/
+dist/
+node_modules/
+npm-debug.log*
